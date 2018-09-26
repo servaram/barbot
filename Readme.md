@@ -1,6 +1,3 @@
-
-![very good|512x397](//renesasatces.com/wp-content/uploads/2017/12/Ushr-logo-300x87.jpg)
-
 # Line2GPS 
 A QGIS plugin to generate GPS samples along the Line or a specified  Route 
 This plugin is only compatible with Qgis 2 (Python 2)
